@@ -15,7 +15,7 @@ This project implements **Real-Time Human Action Recognition** using **YOLOv8** 
 ---
 
 ## 🛠️ **Tech Stack**
-- Python
+- Python 3.x
 - OpenCV
 - YOLOv8 (Ultralytics)
 - TensorFlow/Keras
@@ -42,10 +42,3 @@ This project implements **Real-Time Human Action Recognition** using **YOLOv8** 
 - Timestamp, Person ID, Action, Confidence (%)
 
 - Real-time stats are displayed on the video frame.
-
-## 📌 Requirements
-- Python 3.x
-- OpenCV
-- TensorFlow
-- MediaPipe
-- Ultralytics YOLOv8# Real-Time-Human-Action-Recognition-using-YOLOv8-and-TensorFlow
